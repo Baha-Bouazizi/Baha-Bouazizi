@@ -1,16 +1,21 @@
-### Hi there 👋
+# [Bouazizi Baha]
 
-<!--
-**Baha-Bouazizi/Baha-Bouazizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm [Bouazizi Baha], a passionate software engineer based in [Gabes].
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm proficient in languages like C++,C#.
+- 🌐 Experienced in web development using frameworks like React.js and Node.js.
+- ☁️ Interested in cloud technologies and DevOps practices.
+- 📚 Currently learning [VueJs && ASP.NET].
+
+
+## Skills
+
+- Programming Languages: C++,C#.
+- Web Development: HTML, CSS, Vue.js, Node.js, etc.
+
+## Let's Connect!
+
+- [LinkedIn](www.linkedin.com/in/baha-bouazizi-95b39524b)
+- [Gmail](Baha.Bouazizi@isimg.tn)
