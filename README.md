@@ -12,7 +12,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
-[![Mail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](Baha.Bouazizi@isimg.tn)
+[![Mail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](https://mail.google.com/mail/u/0/?hl=fr#inbox)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
 
