@@ -52,6 +52,5 @@ A programmer specializing in **web development** with expertise in various **too
 
 
 ### 📈 **GitHub Activity:**
-
 ![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=dark)
