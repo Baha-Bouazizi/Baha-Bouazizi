@@ -48,21 +48,8 @@ A programmer specializing in **web development** with expertise in various **too
 ### 📚 **Top Repositories:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baha-Bouazizi&repo=currency-conversion-platform)](https://github.com/Baha-Bouazizi/currency-conversion-platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baha-Bouazizi&repo=another-repo)](https://github.com/Baha-Bouazizi/another-repo)
 
-### 💼 **LinkedIn Activity:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
-
-### 🌟 **Projects Showcase:**
-
-- **[Currency Conversion Platform](https://github.com/Baha-Bouazizi/currency-conversion-platform)**: A web application for currency conversion using real-time exchange rates and user profiles.
-- **[Project X](https://github.com/Baha-Bouazizi/project-x)**: Description of Project X.
-
-### 🏆 **Professional Achievements:**
-
-- **[Certification Name](https://link-to-certification)**: Description of the certification.
-- **[Award or Recognition](https://link-to-award)**: Details about the award or recognition.
 
 ### 📈 **GitHub Activity:**
 
