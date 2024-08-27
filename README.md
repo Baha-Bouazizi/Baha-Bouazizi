@@ -1,12 +1,3 @@
-<!--
-
-## Complete list of GitHub markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-
-## Technology Icons 
-https://simpleicons.org/
-
--->
 📝 ***Feel free to contact me. I am always here...*** 
 <br>
 <br>
@@ -18,12 +9,13 @@ https://simpleicons.org/
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
 <p align='center'>Software engineering student | Learning Full-stack .NET | Node/VueJs | Learning Web Development</p>
 
-<p align='left'> 📫 As someone who is always passionate about learning more about technology and life, I love to develop web scripts, static websites, and have been a self-taught software developer, continuously learning. I have evolved into a Full Stack .NET career path, and love working with cutting-edge tools and technologies.</p>
+<p align='left'> 📫 I am passionate about technology and continuous learning. I enjoy developing web scripts and static websites and have evolved into a Full Stack .NET developer. I love working with cutting-edge tools and technologies.</p>
 
-A programmer specialised in **web development** using multiple **tools, frameworks, and libraries** both in frontend and backend. I pay *a lot of attention to detail* to create the best products.
+### 🧑‍💻 **Skills and Expertise**
+A programmer specializing in **web development** with expertise in various **tools, frameworks, and libraries** both in frontend and backend. I pay *a lot of attention to detail* to create top-notch products.
 
-💻 **Languages and Tools:** 🛠️<br>
-
+#### 💻 **Languages and Tools:**
+🛠️
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
@@ -33,26 +25,26 @@ A programmer specialised in **web development** using multiple **tools, framewor
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 <br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="csharp_dotnet" style="max-width:50%;">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="max-width:50%;">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
 
-🧐 **Knowledge of:**<br>
-
+### 🧐 **Knowledge of:**
 `Responsive web design`, `Object-Oriented Programming`, `Problem Solving`, `Data structures and algorithms`.
 
-🤓 **Interested in:** <br>
-
+### 🤓 **Interests:**
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 <br>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
+### 📈 **GitHub Activity:**
+To showcase your GitHub activity, you can use the following GitHub Stats widgets:
+
+![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=dark)
+
+Feel free to customize the stats and activity widgets based on your preferences. This section will provide a snapshot of your contributions and popular repositories, giving visitors a better understanding of your GitHub presence.
+
 ---
-
-### 📊 GitHub Activity
-
-![GitHub Snake](https://github.com/Baha-Bouazizi/Snake-Animation/blob/main/dist/snake.svg)
-
-*This animation shows my activity on GitHub, with a snake crawling through the days I’ve been inactive, without touching the green squares.*
