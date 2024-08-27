@@ -1,10 +1,12 @@
+# Bouazizi Baha
+
 📝 ***Feel free to contact me. I am always here...*** 
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
-[![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](https://mail.google.com/mail/u/0/?hl=fr#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Baha.Bouazizi@isimg.tn)
 <br>
-[![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
+[![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
 <p align='center'>Software engineering student | Learning Full-stack .NET | Node/VueJs | Learning Web Development</p>
@@ -39,11 +41,30 @@ A programmer specializing in **web development** with expertise in various **too
 <br>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
+### 📅 **GitHub Contributions:**
+
+![Bouazizi Baha's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=dark&hide_border=true)
+
+### 📚 **Top Repositories:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baha-Bouazizi&repo=currency-conversion-platform)](https://github.com/Baha-Bouazizi/currency-conversion-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baha-Bouazizi&repo=another-repo)](https://github.com/Baha-Bouazizi/another-repo)
+
+### 💼 **LinkedIn Activity:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
+
+### 🌟 **Projects Showcase:**
+
+- **[Currency Conversion Platform](https://github.com/Baha-Bouazizi/currency-conversion-platform)**: A web application for currency conversion using real-time exchange rates and user profiles.
+- **[Project X](https://github.com/Baha-Bouazizi/project-x)**: Description of Project X.
+
+### 🏆 **Professional Achievements:**
+
+- **[Certification Name](https://link-to-certification)**: Description of the certification.
+- **[Award or Recognition](https://link-to-award)**: Details about the award or recognition.
+
 ### 📈 **GitHub Activity:**
 
 ![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=dark)
-
-
-
----
