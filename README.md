@@ -39,44 +39,11 @@ A programmer specializing in **web development** with expertise in various **too
 <br>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-### 🚀 **Projets en Vedette**
-
-- **[Nom du Projet](URL)**: Brève description du projet, des technologies utilisées, et ce que tu as accompli.
-- **[Nom du Projet](URL)**: Brève description du projet, des technologies utilisées, et ce que tu as accompli.
-
-### 📝 **Publications et Articles**
-
-- **[Titre de l'Article](URL)**: Brève description de l'article.
-- **[Titre de l'Article](URL)**: Brève description de l'article.
-
-### 🎓 **Certificats et Formations**
-
-- **[Nom du Certificat](URL)**: Délivré par [Institution], [Date].
-- **[Nom du Certificat](URL)**: Délivré par [Institution], [Date].
-
-### 🌟 **Contributions Open Source**
-
-- **[Nom du Projet](URL)**: Description de ta contribution.
-- **[Nom du Projet](URL)**: Description de ta contribution.
-
-### 🏆 **Reconnaissances et Récompenses**
-
-- **[Nom de la Récompense](URL)**: Description de la reconnaissance ou récompense obtenue.
-- **[Nom de la Récompense](URL)**: Description de la reconnaissance ou récompense obtenue.
-
-### 💬 **Témoignages**
-
-- *"Bouazizi est un développeur extrêmement talentueux avec une passion pour la technologie."* – [Nom du Témoignage](URL)
-- *"Son expertise en développement web est impressionnante et ses contributions ont été très précieuses."* – [Nom du Témoignage](URL)
-
-### 🎯 **Objectifs et Vision**
-
-Je m'efforce de devenir un expert en [domaine spécifique], et je suis passionné par [technologies/techniques spécifiques]. Mon objectif est de [objectif de carrière], en continuant à apprendre et à contribuer à des projets innovants.
-
 ### 📈 **GitHub Activity:**
+
 ![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=dark)
 
-Feel free to customize the stats and activity widgets based on your preferences. This section will provide a snapshot of your contributions and popular repositories, giving visitors a better understanding of your GitHub presence.
+
 
 ---
