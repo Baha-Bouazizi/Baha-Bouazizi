@@ -1,27 +1,26 @@
-
 <!--
 
-## Complete list of github markdown emoji markup
+## Complete list of GitHub markdown emoji markup
 https://gist.github.com/rxaviers/7360908
 
-## technologies Icons 
+## Technology Icons 
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** 
+📝 ***Feel free to contact me. I am always here...*** 
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
-[![Mail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](https://mail.google.com/mail/u/0/?hl=fr#inbox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
+[![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](https://mail.google.com/mail/u/0/?hl=fr#inbox)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
-<p align='center'>Software engineering student | Learning  Full-stack .NET | Node/VueJs | Learning Web developement</p>
+<p align='center'>Software engineering student | Learning Full-stack .NET | Node/VueJs | Learning Web Development</p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack .NET career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫 As someone who is always passionate about learning more about technology and life, I love to develop web scripts, static websites, and have been a self-taught software developer, continuously learning. I have evolved into a Full Stack .NET career path, and love working with cutting-edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+A programmer specialised in **web development** using multiple **tools, frameworks, and libraries** both in frontend and backend. I pay *a lot of attention to detail* to create the best products.
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -40,20 +39,20 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
 
-
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`,`Object-Oriented Programming`, ` Problem Solving, data structures and algorithms`.
+`Responsive web design`, `Object-Oriented Programming`, `Problem Solving`, `Data structures and algorithms`.
 
-
-
-
-🤓 **Interested:** <br>
-
+🤓 **Interested in:** <br>
 
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 <br>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
+---
 
+### 📊 GitHub Activity
 
+![GitHub Snake](https://github.com/Baha-Bouazizi/Baha-Bouazizi/blob/output/github-contribution-grid-snake.svg)
+
+*This animation shows my activity on GitHub, with a snake crawling through the days I’ve been inactive, without touching the green squares.*
