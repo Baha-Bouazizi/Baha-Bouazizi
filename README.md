@@ -53,6 +53,6 @@ A programmer specialised in **web development** using multiple **tools, framewor
 
 ### 📊 GitHub Activity
 
-![GitHub Snake](https://github.com/Baha-Bouazizi/Baha-Bouazizi/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Baha-Bouazizi/Snake-Animation/blob/main/dist/snake.svg)
 
 *This animation shows my activity on GitHub, with a snake crawling through the days I’ve been inactive, without touching the green squares.*
