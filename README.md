@@ -44,11 +44,6 @@ A programmer specializing in **web development** with expertise in various **too
 
 ![Snake Game](https://github.com/Baha-Bouazizi/Baha-Bouazizi/blob/main/assets/snake-game.gif)
 
-🕹️ **Play the Snake Game**: [Click here](https://your-snake-game-url) to play the game!
-
-📝 **Daily Activity Overview**:
-- **Goal**: Improve coding skills and have fun!
-- **How to Play**: Use arrow keys to navigate the snake and collect food. Avoid running into walls or yourself!
 
 ### 📅 **GitHub Contributions:**
 
