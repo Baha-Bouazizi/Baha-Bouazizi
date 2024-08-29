@@ -52,8 +52,6 @@ A programmer specializing in **web development** with expertise in various **too
 ### 📚 **Top Repositories:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Baha-Bouazizi&repo=currency-conversion-platform)](https://github.com/Baha-Bouazizi/currency-conversion-platform)
-### 📚 **Top Repositoriezzdhbss:**
-![snake gif](https://github.com/Baha-Bouazizi/Baha-Bouazizi/blob/output/github-contribution-grid-snake.gif)
 
 ### 📈 **GitHub Activity:**
 ![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
