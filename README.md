@@ -40,9 +40,6 @@ A programmer specializing in **web development** with expertise in various **too
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 <br>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-### 🎮 **Daily Activity: Snake Game**
-
-![Snake Game](https://github.com/Baha-Bouazizi/Baha-Bouazizi/blob/main/assets/snake-game.gif)
 
 
 ### 📅 **GitHub Contributions:**
