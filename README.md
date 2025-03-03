@@ -40,6 +40,8 @@ A programmer specializing in **web development** with expertise in various **too
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
+<img src="https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white">
+
 
 ### 🧐 **Knowledge of:**
 Responsive web design, Object-Oriented Programming, Problem Solving, Data structures and algorithms.
