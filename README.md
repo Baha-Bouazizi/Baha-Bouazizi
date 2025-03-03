@@ -1,4 +1,4 @@
-# Bouazizi Baha
+so ajouter ces chose dans mon read me ca :# Bouazizi Baha
 
 📝 ***Feel free to contact me. I am always here...*** 
 <br>
@@ -7,6 +7,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Baha.Bouazizi@isimg.tn)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
+
+
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
 <p align='center'>Software engineering student | Learning Full-stack .NET | Angular | Learning Web Development</p>
@@ -23,6 +25,7 @@ A programmer specializing in **web development** with expertise in various **too
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/BouaziziBaha/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=blue&labelColor=black)](https://codeforces.com/profile/BouaziziBaha)
+
 
 #### 💻 **Languages and Tools:**
 🛠️
@@ -43,6 +46,8 @@ A programmer specializing in **web development** with expertise in various **too
 <img src="https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
+
+
 ### 🧐 **Knowledge of:**
 Responsive web design, Object-Oriented Programming, Problem Solving, Data structures and algorithms.
 
@@ -51,23 +56,12 @@ Responsive web design, Object-Oriented Programming, Problem Solving, Data struct
 <br>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
+
 ### 📅 **GitHub Contributions:**
 
 ![Bouazizi Baha's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=dark&hide_border=true)
 
+
 ### 📈 **GitHub Activity:**
 ![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=dark)
-
-### 🏅 **Achievements**
-- ![Rainbow Lang](https://img.shields.io/badge/-Rainbow%20Lang-11pt-blue)
-- ![Reviews](https://img.shields.io/badge/-Reviews-lightgrey)
-- ![New Reviewer](https://img.shields.io/badge/-New%20Reviewer-1pt-green)
-- ![Ultra Committer](https://img.shields.io/badge/-Ultra%20Committer-689pt-orange)
-- ![Followers](https://img.shields.io/badge/-Followers-lightgrey)
-- ![Active User](https://img.shields.io/badge/-Active%20User-72pt-green)
-- ![You are a Star](https://img.shields.io/badge/-You%20are%20a%20Star-36pt-yellow)
-- ![High Repo Creator](https://img.shields.io/badge/-High%20Repo%20Creator-24pt-blue)
-- ![Junior Dev](https://img.shields.io/badge/-Junior%20Dev-6pt-lightgrey)
-- ![First Issue](https://img.shields.io/badge/-First%20Issue-1pt-green)
-- ![First Pull](https://img.shields.io/badge/-First%20Pull-1pt-blue)
