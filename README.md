@@ -1,16 +1,12 @@
 # Bouazizi Baha
 
-📝 ***Feel free to contact me. I am always here...***                                       (https://github.com/Baha-Bouazizi)
-
+📝 ***Feel free to contact me. I am always here...*** 
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
 [![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Baha.Bouazizi@isimg.tn)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
-
-
-
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
 <p align='center'>Software engineering student | Learning Full-stack .NET | Angular | Learning Web Development</p>
