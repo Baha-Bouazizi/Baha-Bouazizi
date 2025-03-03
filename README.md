@@ -23,6 +23,8 @@ A programmer specializing in **web development** with expertise in various **too
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/BouaziziBaha/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=blue&labelColor=black)](https://codeforces.com/profile/BouaziziBaha)
+![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=orange&labelColor=black)
+![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=blue&labelColor=black)
 
 #### 💻 **Languages and Tools:**
 🛠️
