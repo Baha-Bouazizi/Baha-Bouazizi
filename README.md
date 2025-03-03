@@ -9,7 +9,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
-<p align='center'>Software engineering student | Learning Full-stack .NET | Node/VueJs | Learning Web Development</p>
+<p align='center'>Software engineering student | Learning Full-stack .NET | Angular | Learning Web Development</p>
 
 <p align='left'> 📫 I am passionate about technology and continuous learning. I enjoy developing web scripts and static websites and have evolved into a Full Stack .NET developer. I love working with cutting-edge tools and technologies.</p>
 
