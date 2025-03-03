@@ -8,28 +8,8 @@
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
 
-# Mon Profil GitHub
 
-## Compétences
-- ![Rainbow Lang](https://img.shields.io/badge/-Rainbow%20Lang-11pt-blue)
-- ![Reviews](https://img.shields.io/badge/-Reviews-lightgrey)
-- ![New Reviewer](https://img.shields.io/badge/-New%20Reviewer-1pt-green)
 
-## Contributions
-- ![Ultra Committer](https://img.shields.io/badge/-Ultra%20Committer-689pt-orange)
-- ![Followers](https://img.shields.io/badge/-Followers-lightgrey)
-- ![Active User](https://img.shields.io/badge/-Active%20User-72pt-green)
-
-## Réalisations
-- ![You are a Star](https://img.shields.io/badge/-You%20are%20a%20Star-36pt-yellow)
-- ![High Repo Creator](https://img.shields.io/badge/-High%20Repo%20Creator-24pt-blue)
-
-## Expérience
-- ![Junior Dev](https://img.shields.io/badge/-Junior%20Dev-6pt-lightgrey)
-
-## Contributions Open Source
-- ![First Issue](https://img.shields.io/badge/-First%20Issue-1pt-green)
-- ![First Pull](https://img.shields.io/badge/-First%20Pull-1pt-blue)
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
 <p align='center'>Software engineering student | Learning Full-stack .NET | Angular | Learning Web Development</p>
 
