@@ -1,6 +1,6 @@
 # Bouazizi Baha
 
-📝 ***Feel free to contact me. I am always here...***                                        [![Followers](https://img.shields.io/github/followers/Baha-Bouazizi?label=Followers&style=social)](https://github.com/Baha-Bouazizi)
+📝 ***Feel free to contact me. I am always here...***                                       (https://github.com/Baha-Bouazizi)
 
 <br>
 <br>
