@@ -1,6 +1,7 @@
 # Bouazizi Baha
 
-📝 ***Feel free to contact me. I am always here...*** 
+📝 ***Feel free to contact me. I am always here...***                                        [![Followers](https://img.shields.io/github/followers/Baha-Bouazizi?label=Followers&style=social)](https://github.com/Baha-Bouazizi)
+
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
@@ -8,11 +9,7 @@
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=green&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
 
-### 📊 **GitHub Stats:**
-[![Followers](https://img.shields.io/github/followers/Baha-Bouazizi?label=Followers&style=social)](https://github.com/Baha-Bouazizi)
-[![Repos](https://img.shields.io/github/repos/Baha-Bouazizi?style=social)](https://github.com/Baha-Bouazizi)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Baha-Bouazizi?style=social)](https://github.com/Baha-Bouazizi)
-[![Issues](https://img.shields.io/github/issues/Baha-Bouazizi?style=social)](https://github.com/Baha-Bouazizi)
+
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
