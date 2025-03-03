@@ -19,7 +19,7 @@ A programmer specializing in **web development** with expertise in various **too
 ### 🏆 Competitive Programming
 - ✅ **LeetCode:** Solved **+300 problems**  
 - ✅ **Codeforces:** Solved **+200 problems**  
-- 🚀 **Currently working on more problems!**
+- ✅**Currently working on more problems!**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/BouaziziBaha/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=blue&labelColor=black)](https://codeforces.com/profile/BouaziziBaha)
