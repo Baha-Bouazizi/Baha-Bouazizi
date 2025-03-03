@@ -16,6 +16,14 @@
 ### 🧑‍💻 **Skills and Expertise**
 A programmer specializing in **web development** with expertise in various **tools, frameworks, and libraries** both in frontend and backend. I pay *a lot of attention to detail* to create top-notch products.
 
+### 🏆 Competitive Programming
+- ✅ **LeetCode:** Solved **+300 problems**  
+- ✅ **Codeforces:** Solved **+200 problems**  
+- 🚀 **Currently working on more problems!**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/BouaziziBaha/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=blue&labelColor=black)](https://codeforces.com/profile/BouaziziBaha)
+
 #### 💻 **Languages and Tools:**
 🛠️
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
