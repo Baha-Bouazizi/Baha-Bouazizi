@@ -1,6 +1,6 @@
 # Bouazizi Baha
 
-📝 ***Feel free to contact me. I am always here...*** 
+📝 ***Feel free to contact me. I'am always here...*** 
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
