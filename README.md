@@ -61,7 +61,7 @@ Responsive web design, Object-Oriented Programming, Problem Solving, Data struct
 
 ### 📅 **GitHub Contributions:**
 
-![Bouazizi Baha's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=dark&hide_border=true)
+![Bouazizi Baha's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=light&hide_border=true)
 
 
 ### 📈 **GitHub Activity:**
