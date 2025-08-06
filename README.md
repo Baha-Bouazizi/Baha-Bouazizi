@@ -65,5 +65,5 @@ Responsive web design, Object-Oriented Programming, Problem Solving, Data struct
 
 
 ### 📈 **GitHub Activity:**
-![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=dark)
+![Bouazizi Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=radical)
