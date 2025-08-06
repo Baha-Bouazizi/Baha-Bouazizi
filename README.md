@@ -11,9 +11,9 @@
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Bouazizi Baha</strong></samp></h2>
-<p align='center'>Software engineering student | Learning Full-stack .NET | Angular | Learning Web Development</p>
+<p align='center'>Software engineering student | Learning Full-stack .NET |ML & DL Enthusiast</p>
 
-<p align='left'> 📫 I am passionate about technology and continuous learning. I enjoy developing web scripts and static websites and have evolved into a Full Stack .NET developer. I love working with cutting-edge tools and technologies.</p>
+<p align='left'> 📫Passionate about technology and lifelong learning, I specialize in developing web applications. Over time, I have evolved into a Full Stack .NET developer with expertise in building scalable and efficient solutions. Additionally, I have experience working with FastAPI to create high-performance APIs. I am deeply interested in emerging technologies such as Machine Learning and Deep Learning, and I enjoy leveraging cutting-edge tools to deliver innovative, robust, and scalable applications..</p>
 
 ### 🧑‍💻 **Skills and Expertise**
 A programmer specializing in **web development** with expertise in various **tools, frameworks, and libraries** both in frontend and backend. I pay *a lot of attention to detail* to create top-notch products.
