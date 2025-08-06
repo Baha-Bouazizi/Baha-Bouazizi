@@ -37,6 +37,9 @@ A programmer specializing in **web development** with expertise in various **too
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B&labelColor=ffffff)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff)
+
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="max-width:50%;">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
