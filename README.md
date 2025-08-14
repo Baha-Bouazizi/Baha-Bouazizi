@@ -47,16 +47,6 @@ I focus on building **scalable, robust, and innovative solutions**.
 
 ---
 
-## 🧑‍💻 Skills & Expertise
-
-**Frontend:** HTML5, CSS3, JavaScript, Angular, TypeScript  
-**Backend:** C#, .NET, FastAPI, Java  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VSCode, Linux, Windows, Streamlit  
-**AI/ML:** TensorFlow, Python, Machine Learning, Deep Learning  
-
----
-
 ## 🏆 Competitive Programming
 
 <p align="center">
@@ -109,11 +99,3 @@ I focus on building **scalable, robust, and innovative solutions**.
 
 ---
 
-## 📊 More GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Baha-Bouazizi?label=Followers&style=social" alt="Followers">
-  <img src="https://img.shields.io/github/repo-size/Baha-Bouazizi?color=blue&label=Repo%20Size" alt="Repo Size">
-  <img src="https://img.shields.io/github/stars/Baha-Bouazizi?color=yellow&label=Stars" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=Baha-Bouazizi&color=blue" alt="Profile Views">
-</p>
