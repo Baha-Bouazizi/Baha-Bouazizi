@@ -19,7 +19,7 @@
 
 ---
 
-# 🚀 A Passionate Software Engineering Student from Tunisia
+#  A Passionate Software Engineering Student from Tunisia
 
 ## 🏆 GitHub Achievements
 
