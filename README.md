@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 GitHub Stats & Achievements
+##  GitHub Stats & Achievements
 
 <p align="center">
   <img alt="Commits" src="https://img.shields.io/badge/Commits-326-blue?style=for-the-badge&logo=git">
@@ -32,16 +32,6 @@
 <p align="center">
   <img alt="Languages" src="https://img.shields.io/badge/MultiLanguage-12-purple?style=for-the-badge&logo=programming">
 </p>
-
----
-
-## 🧑‍💻 Skills & Expertise
-
-**Frontend:** HTML5, CSS3, JavaScript, Angular, TypeScript  
-**Backend:** C#, .NET, FastAPI, Java  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VSCode, Linux, Windows, Streamlit  
-**AI/ML:** Python, TensorFlow, Machine Learning, Deep Learning  
 
 ---
 
