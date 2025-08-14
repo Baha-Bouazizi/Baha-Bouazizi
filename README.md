@@ -3,10 +3,18 @@
 ***Feel free to contact me. I'm always here...***
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=white&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
-  [![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-red?logo=Gmail&logoColor=white&labelColor=black)](mailto:Baha.Bouazizi@isimg.tn)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=white&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
-  [![Twitter](https://img.shields.io/twitter/follow/BouaziziBaha?label=Follow&style=social)](https://twitter.com/BouaziziBaha)
+  <a href="https://www.linkedin.com/in/baha-bouazizi-95b39524b">
+    <img src="https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Baha.Bouazizi@isimg.tn">
+    <img src="https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.hackerrank.com/profile/CPCISIMG_II">
+    <img src="https://img.shields.io/badge/HackerRank-BouaziziBaha-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://twitter.com/BouaziziBaha">
+    <img src="https://img.shields.io/badge/Twitter-@BouaziziBaha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </p>
 
 ---
@@ -18,16 +26,12 @@
   <img alt="Followers" src="https://img.shields.io/badge/Followers-85-green?style=for-the-badge&logo=github">
   <img alt="Repositories" src="https://img.shields.io/badge/Repositories-30-purple?style=for-the-badge&logo=github">
   <img alt="Stars" src="https://img.shields.io/badge/Stars-36-yellow?style=for-the-badge&logo=github">
-</p>
-
-<p align="center">
+  
   <img alt="Experience" src="https://img.shields.io/badge/Experience-Junior%20Dev-orange?style=for-the-badge&logo=visual-studio-code">
   <img alt="Issues" src="https://img.shields.io/badge/Issues-1-lightgrey?style=for-the-badge&logo=github">
   <img alt="Pull Requests" src="https://img.shields.io/badge/PRs-1-lightblue?style=for-the-badge&logo=github">
   <img alt="Reviews" src="https://img.shields.io/badge/Reviews-1-darkgrey?style=for-the-badge&logo=github">
-</p>
-
-<p align="center">
+  
   <img alt="Languages" src="https://img.shields.io/badge/MultiLanguage-12-purple?style=for-the-badge&logo=programming">
 </p>
 
@@ -55,12 +59,13 @@ I focus on building **scalable, robust, and innovative solutions**.
 
 ## 🏆 Competitive Programming
 
-- ✅ **LeetCode:** Solved **300+ problems**  
-- ✅ **Codeforces:** Solved **200+ problems**  
-
 <p align="center">
-  [![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=white&labelColor=black)](https://leetcode.com/BouaziziBaha/)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=white&labelColor=black)](https://codeforces.com/profile/BouaziziBaha)
+  <a href="https://leetcode.com/BouaziziBaha/">
+    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/BouaziziBaha">
+    <img src="https://img.shields.io/badge/Codeforces-200%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
 </p>
 
 ---
@@ -68,25 +73,25 @@ I focus on building **scalable, robust, and innovative solutions**.
 ## 💻 Languages & Tools
 
 <p align="center">
-  ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-  ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  <br>
-  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-  <br>
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-  ![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-  ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-  <br>
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-  <br>
-  ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=ffffff)
-  ![Angular](https://img.shields.io/badge/-Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=ffffff)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
 ---
@@ -94,12 +99,12 @@ I focus on building **scalable, robust, and innovative solutions**.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&count_private=true&theme=radical" width="48%">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&count_private=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=radical" width="48%" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=radical&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -107,8 +112,8 @@ I focus on building **scalable, robust, and innovative solutions**.
 ## 📊 More GitHub Stats
 
 <p align="center">
-  [![Followers](https://img.shields.io/github/followers/Baha-Bouazizi?label=Followers&style=social)](https://github.com/Baha-Bouazizi)
-  [![Repo Size](https://img.shields.io/github/repo-size/Baha-Bouazizi?style=flat&color=blue)](https://github.com/Baha-Bouazizi)
-  [![Stars](https://img.shields.io/github/stars/Baha-Bouazizi?style=flat&color=yellow)](https://github.com/Baha-Bouazizi/stargazers)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Baha-Bouazizi&color=blue)](https://github.com/Baha-Bouazizi)
+  <img src="https://img.shields.io/github/followers/Baha-Bouazizi?label=Followers&style=social" alt="Followers">
+  <img src="https://img.shields.io/github/repo-size/Baha-Bouazizi?color=blue&label=Repo%20Size" alt="Repo Size">
+  <img src="https://img.shields.io/github/stars/Baha-Bouazizi?color=yellow&label=Stars" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=Baha-Bouazizi&color=blue" alt="Profile Views">
 </p>
