@@ -1,6 +1,13 @@
 
-# 👋 Hi, I'm Bouazizi Baha  
-# <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center" style="margin: 40px 0;">
+
+# ✨ Hey, I'm Baha Bouazizi ✨
+
+<img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
+     alt="Developer Animation"
+     style="border-radius: 10px; border: 3px solid #58a6ff; margin-top: 15px; 
+            box-shadow: 0 4px 12px rgba(88,166,255,0.3);">
+
 </div>
 
 ***Feel free to contact me. I'm always here...***
