@@ -25,18 +25,21 @@
 
 <p align="center">
   <!-- First Row -->
-  <img src="https://img.shields.io/badge/Commits-Hyper_Committer_32ppt-blue?style=for-the-badge&logo=git" alt="Commits">
-  <img src="https://img.shields.io/badge/Followers-Active_User_85pt-green?style=for-the-badge&logo=github" alt="Followers">
-  <img src="https://img.shields.io/badge/Repositories-Hyper_Repo_Creator_30pt-purple?style=for-the-badge&logo=github" alt="Repositories">
+  <img src="https://img.shields.io/badge/Multilanguage-Rainbow_Lang_User_12pt-blue?style=for-the-badge&logo=visual-studio-code" alt="Multilanguage">
+  <img src="https://img.shields.io/badge/Experience-Intermediate_Dev_12pt-orange?style=for-the-badge&logo=github" alt="Experience">
   
   <!-- Second Row -->
-  <img src="https://img.shields.io/badge/Stars-You_are_a_Star_36pt-yellow?style=for-the-badge&logo=github" alt="Stars">
-  <img src="https://img.shields.io/badge/Experience-Junior_Dev_7pt-orange?style=for-the-badge&logo=visual-studio-code" alt="Experience">
-  <img src="https://img.shields.io/badge/Issues-First_Issue_1pt-lightgrey?style=for-the-badge&logo=github" alt="First Issue">
+  <img src="https://img.shields.io/badge/Stars-Middle_Star_15-yellow?style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/Commits-Middle_Committer_B-36pt?style=for-the-badge&logo=git" alt="Commits">
   
   <!-- Third Row -->
-  <img src="https://img.shields.io/badge/Pull_Requests-First_Pull_1pt-lightblue?style=for-the-badge&logo=git-pull-request" alt="Pull Requests">
-  <img src="https://img.shields.io/badge/Reviews-New_Reviewer_1pt-darkgrey?style=for-the-badge&logo=code-review" alt="Reviews">
+  <img src="https://img.shields.io/badge/Repositories-Middle_Repo_Creator_B-12pt?style=for-the-badge&logo=github" alt="Repositories">
+  <img src="https://img.shields.io/badge/Followers-First_Friend_C-7pt?style=for-the-badge&logo=github" alt="Followers">
+  
+  <!-- Fourth Row -->
+  <img src="https://img.shields.io/badge/Issues-Unknown_Opt_2-lightgrey?style=for-the-badge&logo=github" alt="Issues">
+  <img src="https://img.shields.io/badge/PullRequest-Unknown_Opt_2-lightblue?style=for-the-badge&logo=git-pull-request" alt="PullRequest">
+  <img src="https://img.shields.io/badge/Reviews-Unknown_Opt_2-darkgrey?style=for-the-badge&logo=code-review" alt="Reviews">
 </p>
 
 
