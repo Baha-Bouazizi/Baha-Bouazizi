@@ -19,16 +19,10 @@
     <img src="https://img.shields.io/badge/Twitter-@BouaziziBaha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 
-## ✨ Support & Appreciation
-
 <div align="center">
-  
-  <h3>Fuel my coding sessions 🚀</h3>
-  
-  [![Support](https://img.shields.io/badge/Support%20My%20Work-%F0%9F%8D%B8-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://buymeacoffee.com/bouazizibaha)
-  
-  <p><small>Your support means the world to me! 💛</small></p>
-  
+  <a href="https://buymeacoffee.com/bouazizibaha" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
 
 
