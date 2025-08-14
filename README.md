@@ -86,6 +86,16 @@
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
+<a href="https://www.codechef.com/users/buazizibaha" target="_blank" title="Mon profil CodeChef">
+  <img align="center" 
+       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+       alt="buazizibaha CodeChef" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #5B463840); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
+</a>
      <a href="https://codepen.io/Baha-Bouazizi-the-lessful" target="_blank" title="Mes créations CodePen">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
