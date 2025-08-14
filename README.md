@@ -53,6 +53,16 @@
        onmouseover="this.style.transform='scale(1.1) rotate(5deg)'"
        onmouseout="this.style.transform='scale(1) rotate(0deg)'">
 </a>
+     <a href="https://stackoverflow.com/users/30167872/baha-bouazizi" target="_blank" title="Mon profil Stack Overflow">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+       alt="Baha Bouazizi Stack Overflow" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #F4802440); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
+</a>
 </p>
 <div align="center">
   <!-- Ligne des badges de contact -->
