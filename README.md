@@ -3,9 +3,12 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+# 👋 Hi, I'm Bouazizi Baha 📝
+
 ***Feel free to contact me. I'm always here...***
 
-<p align="center">
+<div align="center">
+  <!-- Ligne des badges de contact -->
   <a href="https://www.linkedin.com/in/baha-bouazizi-95b39524b">
     <img src="https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -18,11 +21,15 @@
   <a href="https://twitter.com/BouaziziBaha">
     <img src="https://img.shields.io/badge/Twitter-@BouaziziBaha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-</p>
 
-<h3 align="left">If you like what I do, why not to</h3>
-<p><a href="https://www.buymeacoffee.com/capuccino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="capuccino" /></a></p><br><br>
-
+  <!-- Bouton "Buy Me a Coffee" centré sous les badges -->
+  <div style="margin-top: 20px;">
+    <h3>If you like what I do, why not to</h3>
+    <a href="https://www.buymeacoffee.com/capuccino">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
+    </a>
+  </div>
+</div>
 ---
 
 #  A Passionate Software Engineering Student from Tunisia
