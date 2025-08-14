@@ -19,20 +19,35 @@
 
 ---
 
-## 🚀 GitHub Achievements & Stats
+# 🏆 GitHub Achievements & Stats
 
+## 📊 Activity Metrics
 <p align="center">
-  <img alt="Commits" src="https://img.shields.io/badge/Commits-326-blue?style=for-the-badge&logo=git">
-  <img alt="Followers" src="https://img.shields.io/badge/Followers-85-green?style=for-the-badge&logo=github">
-  <img alt="Repositories" src="https://img.shields.io/badge/Repositories-30-purple?style=for-the-badge&logo=github">
-  <img alt="Stars" src="https://img.shields.io/badge/Stars-36-yellow?style=for-the-badge&logo=github">
-  
-  <img alt="Experience" src="https://img.shields.io/badge/Experience-Junior%20Dev-orange?style=for-the-badge&logo=visual-studio-code">
-  <img alt="Issues" src="https://img.shields.io/badge/Issues-1-lightgrey?style=for-the-badge&logo=github">
-  <img alt="Pull Requests" src="https://img.shields.io/badge/PRs-1-lightblue?style=for-the-badge&logo=github">
-  <img alt="Reviews" src="https://img.shields.io/badge/Reviews-1-darkgrey?style=for-the-badge&logo=github">
-  
-  <img alt="Languages" src="https://img.shields.io/badge/MultiLanguage-12-purple?style=for-the-badge&logo=programming">
+  <img src="https://img.shields.io/badge/Commits-326-blue?style=for-the-badge&logo=git" alt="Commits">
+  <img src="https://img.shields.io/badge/Followers-85-green?style=for-the-badge&logo=github" alt="Followers">
+  <img src="https://img.shields.io/badge/Repositories-30-purple?style=for-the-badge&logo=github" alt="Repositories">
+  <img src="https://img.shields.io/badge/Stars-36-yellow?style=for-the-badge&logo=github" alt="Stars">
+</p>
+
+## 🛠️ Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-Junior%20Dev-orange?style=for-the-badge&logo=visual-studio-code" alt="Experience">
+  <img src="https://img.shields.io/badge/MultiLanguage-12-purple?style=for-the-badge&logo=programming" alt="Languages">
+</p>
+
+## 🏅 Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Hyper_Commiter-32Gpt-blue?style=for-the-badge&logo=github" alt="Hyper Committer">
+  <img src="https://img.shields.io/badge/Active_User-8Gpt-green?style=for-the-badge&logo=github" alt="Active User">
+  <img src="https://img.shields.io/badge/Hyper_Repo_Creator-3Gpt-purple?style=for-the-badge&logo=github" alt="Repo Creator">
+  <img src="https://img.shields.io/badge/You_are_a_Star-3Gpt-yellow?style=for-the-badge&logo=github" alt="Stars">
+</p>
+
+## 🚀 First Steps
+<p align="center">
+  <img src="https://img.shields.io/badge/First_Issue-1pt-lightgrey?style=for-the-badge&logo=github" alt="First Issue">
+  <img src="https://img.shields.io/badge/First_Pull-1pt-lightblue?style=for-the-badge&logo=github" alt="First PR">
+  <img src="https://img.shields.io/badge/New_Reviewer-1pt-darkgrey?style=for-the-badge&logo=github" alt="First Review">
 </p>
 
 ---
