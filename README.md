@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Bouazizi Baha 📝  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+# 👋 Hi, I'm Bouazizi Baha   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ***Feel free to contact me. I'm always here...***
@@ -45,7 +45,7 @@
 
 Software Engineering Student | .NET Developper |  ML & DL Enthusiast  
 
-📫 Passionate about technology and lifelong learning, I specialize in developing **web applications**.  
+   Passionate about technology and lifelong learning, I specialize in developing **web applications**.  
 I have experience in **.NET development**, **FastAPI**, and I love **Machine Learning & Deep Learning**.  
 I focus on building **scalable, robust, and innovative solutions**.
 
