@@ -3,8 +3,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# 👋 Hi, I'm Bouazizi Baha 📝
-
 ***Feel free to contact me. I'm always here...***
 
 <div align="center">
