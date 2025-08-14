@@ -14,7 +14,17 @@
 </div>
 
 ***Feel free to contact me. I'm always here...***
-
+<p align="left">
+  <a href="https://leetcode.com/bahabouazizi/" target="_blank" title="Mon profil LeetCode">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+         alt="LeetCode Profile" 
+         height="30" 
+         width="40"
+         style="margin-right: 8px;">
+    <span style="font-size: 14px; color: #ffa116;">LeetCode: bahabouazizi</span>
+  </a>
+</p>
 <div align="center">
   <!-- Ligne des badges de contact -->
   <a href="https://www.linkedin.com/in/baha-bouazizi-95b39524b">
