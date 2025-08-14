@@ -3,17 +3,15 @@
 
 # ✨ Hey, I'm Baha Bouazizi ✨
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
-  
-  <!-- GIF Globe Technologique -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 25px;">
+
+  <!-- GIF à gauche -->
   <img height="180" src="https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" 
-       alt="Tech Globe"
-       style="border-radius: 12px; border: 3px solid #2e86de; box-shadow: 0 4px 12px rgba(46,134,222,0.3);">
-  
-  <!-- GIF Code Animé -->
+       style="border-radius: 12px; border: 3px solid #2e86de; box-shadow: 0 4px 8px rgba(46,134,222,0.2);">
+
+  <!-- GIF à droite -->
   <img height="180" src="https://media0.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" 
-       alt="Coding Animation"
-       style="border-radius: 12px; border: 3px solid #8e44ad; box-shadow: 0 4px 12px rgba(142,68,173,0.3);">
+       style="border-radius: 12px; border: 3px solid #8e44ad; box-shadow: 0 4px 8px rgba(142,68,173,0.2);">
 
 </div>
 </div>
