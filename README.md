@@ -19,38 +19,41 @@
 
 ---
 
-# 🏆 GitHub Achievements & Stats
+# 🌟 GitHub Achievements Dashboard
 
-## 📊 Activity Metrics
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-326-blue?style=for-the-badge&logo=git" alt="Commits">
-  <img src="https://img.shields.io/badge/Followers-85-green?style=for-the-badge&logo=github" alt="Followers">
-  <img src="https://img.shields.io/badge/Repositories-30-purple?style=for-the-badge&logo=github" alt="Repositories">
-  <img src="https://img.shields.io/badge/Stars-36-yellow?style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/Total_Commits-326-blue?style=flat-square&logo=git" alt="Commits">
+  <img src="https://img.shields.io/badge/Followers-85-success?style=flat-square&logo=github" alt="Followers">
+  <img src="https://img.shields.io/badge/Repositories-30-purple?style=flat-square&logo=github" alt="Repositories">
+  <img src="https://img.shields.io/badge/Stars-36-yellow?style=flat-square&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/Languages-12-blueviolet?style=flat-square&logo=codeforces" alt="Languages">
 </p>
 
-## 🛠️ Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-Junior%20Dev-orange?style=for-the-badge&logo=visual-studio-code" alt="Experience">
-  <img src="https://img.shields.io/badge/MultiLanguage-12-purple?style=for-the-badge&logo=programming" alt="Languages">
+  <img src="https://img.shields.io/badge/Level-Junior_Dev-important?style=flat-square&logo=visual-studio-code" alt="Level">
+  <img src="https://img.shields.io/badge/Hyper_Commiter-32Gpt-informational?style=flat-square&logo=github-actions" alt="Hyper Committer">
+  <img src="https://img.shields.io/badge/Active_User-8Gpt-success?style=flat-square&logo=user" alt="Active User">
+  <img src="https://img.shields.io/badge/Repo_Creator-3Gpt-blue?style=flat-square&logo=github" alt="Repo Creator">
 </p>
 
-## 🏅 Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/Hyper_Commiter-32Gpt-blue?style=for-the-badge&logo=github" alt="Hyper Committer">
-  <img src="https://img.shields.io/badge/Active_User-8Gpt-green?style=for-the-badge&logo=github" alt="Active User">
-  <img src="https://img.shields.io/badge/Hyper_Repo_Creator-3Gpt-purple?style=for-the-badge&logo=github" alt="Repo Creator">
-  <img src="https://img.shields.io/badge/You_are_a_Star-3Gpt-yellow?style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/First_Issue-1pt-lightgrey?style=flat-square&logo=git" alt="First Issue">
+  <img src="https://img.shields.io/badge/First_PR-1pt-blue?style=flat-square&logo=git-pull-request" alt="First PR">
+  <img src="https://img.shields.io/badge/First_Review-1pt-green?style=flat-square&logo=code-review" alt="First Review">
+  <img src="https://img.shields.io/badge/Star_User-3Gpt-yellow?style=flat-square&logo=star" alt="Star User">
 </p>
 
-## 🚀 First Steps
-<p align="center">
-  <img src="https://img.shields.io/badge/First_Issue-1pt-lightgrey?style=for-the-badge&logo=github" alt="First Issue">
-  <img src="https://img.shields.io/badge/First_Pull-1pt-lightblue?style=for-the-badge&logo=github" alt="First PR">
-  <img src="https://img.shields.io/badge/New_Reviewer-1pt-darkgrey?style=for-the-badge&logo=github" alt="First Review">
-</p>
+<div align="center">
+  
+| **Category**       | **Badge**                                                                 | **Progress** |
+|--------------------|---------------------------------------------------------------------------|--------------|
+| **Commits**        | ![Commits](https://img.shields.io/badge/Hyper_Commiter-32Gpt-blue)        | ██████████   |
+| **Community**      | ![Followers](https://img.shields.io/badge/Active_User-8Gpt-green)         | ████▌        |
+| **Repositories**   | ![Repos](https://img.shields.io/badge/Repo_Creator-3Gpt-purple)           | █▌           |
+| **Stars**          | ![Stars](https://img.shields.io/badge/Star_User-3Gpt-yellow)              | █▌           |
+| **Experience**     | ![Level](https://img.shields.io/badge/Junior_Dev-7pt-orange)              | █████▌       |
 
----
+</div>
 
 ## 👋 About Me
 
