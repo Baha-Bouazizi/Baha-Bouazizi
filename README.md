@@ -73,14 +73,13 @@
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
-     <a href="https://twitter.com/BouaziziBaha" target="_blank" title="Mon Twitter">
-<a href="https://x.com/BouaziziBaha" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" 
-       alt="X Profile" 
-       height="30" 
-       width="40" />
-</a>
+<div style="display: inline-block; margin: 0 5px;">
+  <a href="https://x.com/BouaziziBaha" target="_blank" title="@BouaziziBaha sur X">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" 
+         alt="X" 
+         style="height: 30px; width: 40px; vertical-align: middle;">
+  </a>
+</div>
 </p>
 <div align="center">
   <!-- Ligne des badges de contact -->
