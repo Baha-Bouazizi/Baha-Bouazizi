@@ -3,10 +3,7 @@
 
 # ✨ Hey, I'm Baha Bouazizi ✨
 
-<img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
-     alt="Developer Animation"
-     style="border-radius: 10px; border: 3px solid #58a6ff; margin-top: 15px; 
-            box-shadow: 0 4px 12px rgba(88,166,255,0.3);">
+<img height="150" src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="Data">
 
 </div>
 
