@@ -93,21 +93,25 @@
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
+     <a href="https://www.instagram.com/bzz_baha/" target="_blank" title="Mon Instagram">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+       alt="bzz_baha Instagram" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 6px #E4405F40); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'"
+       onmouseout="this.style.transform='scale(1) rotate(0deg)'">
+</a>
 </p>
 <div align="center">
   <!-- Ligne des badges de contact -->
-  <a href="https://www.linkedin.com/in/baha-bouazizi-95b39524b">
-    <img src="https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+
   <a href="mailto:Baha.Bouazizi@isimg.tn">
     <img src="https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.hackerrank.com/profile/CPCISIMG_II">
-    <img src="https://img.shields.io/badge/HackerRank-BouaziziBaha-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://twitter.com/BouaziziBaha">
-    <img src="https://img.shields.io/badge/Twitter-@BouaziziBaha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+
+ 
 
 ##  Keep Me Caffeinated!
 
