@@ -74,12 +74,13 @@
        onmouseout="this.style.transform='scale(1)'">
 </a>
      <a href="https://twitter.com/BouaziziBaha" target="_blank" title="Mon Twitter">
+<a href="https://x.com/BouaziziBaha" target="_blank" title="Mon profil X">
   <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-       alt="BouaziziBaha Twitter" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" 
+       alt="BouaziziBaha sur X" 
        height="30" 
        width="40"
-       style="filter: drop-shadow(0 0 4px #1DA1F240); transition: transform 0.3s ease;"
+       style="filter: drop-shadow(0 0 4px #00000040); transition: transform 0.3s ease;"
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
