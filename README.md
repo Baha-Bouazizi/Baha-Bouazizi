@@ -22,7 +22,6 @@
 
   <!-- Bouton "Buy Me a Coffee" centré sous les badges -->
   <div style="margin-top: 20px;">
-    <h3>If you like what I do, why not to</h3>
    <h3 align="center">If you like what I do, why not</h3>
 <p align="center">
   <a href="https://buymeacoffee.com/bouazizibaha">
