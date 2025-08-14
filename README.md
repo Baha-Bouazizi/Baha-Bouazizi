@@ -1,7 +1,7 @@
 
 <div align="center" style="margin: 40px 0;">
 
-# ✨ Hey, I'm Baha Bouazizi ✨
+# Hey ! I'm Bouazizi Baha 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 25px;">
 
@@ -14,6 +14,7 @@
        style="border-radius: 12px; border: 3px solid #8e44ad; box-shadow: 0 4px 8px rgba(142,68,173,0.2);">
 
 </div>
+
 </div>
 
 ***Feel free to contact me. I'm always here...***
