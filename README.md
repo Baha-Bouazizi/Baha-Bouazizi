@@ -12,6 +12,7 @@
      onmouseout="this.style.transform='rotateY(0deg) scale(1)'">
 
 </div>
+- 📫 How to reach me **baha.bouazizi@isimg.tn**
 
 ***Feel free to contact me. I'm always here...***
 <p align="left">
@@ -25,12 +26,7 @@
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
-<a href="mailto:Baha.Bouazizi@isimg.tn" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
-       alt="Email"
-       style="height: 30px; width: 40px; margin-right: 8px; filter: drop-shadow(0 0 3px #D1483640);">
-  <span style="color: #D14836; font-weight: 500;">Baha.Bouazizi@isimg.tn</span>
-</a>
+
   <a href="https://leetcode.com/bahabouazizi/" target="_blank" title="Mon profil LeetCode">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
@@ -110,12 +106,7 @@
        onmouseout="this.style.transform='scale(1) rotate(0deg)'">
 </a>
 </p>
-<div align="center">
-  <!-- Ligne des badges de contact -->
 
-  <a href="mailto:Baha.Bouazizi@isimg.tn">
-    <img src="https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 
  
 
