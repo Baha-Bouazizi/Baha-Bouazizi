@@ -8,33 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/BouaziziBaha?label=Follow&style=social)](https://twitter.com/BouaziziBaha)
 
 ---
-<h2 align="center">🚀 GitHub Achievements & Stats</h2>
-
-<p align="center">
-  <!-- Commits, Followers, Repos, Stars dynamiques -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<h2 align="center">👋 Hi there, I am Bouazizi Baha</h2>
-<p align="center">Software Engineering Student | Full-stack .NET | ML & DL Enthusiast</p>
-
-<p align="center">
-  <!-- Contact / Socials -->
-  <a href="https://www.linkedin.com/in/baha-bouazizi-95b"><img src="https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-@Baha-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="https://github.com/Baha-Bouazizi"><img src="https://img.shields.io/badge/GitHub-Baha%20Bouazizi-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
-
+<h2 align="center">🚀 GitHub Achievements & Stats</h2> <p align="center"> <img alt="Commits" src="https://img.shields.io/badge/Commits-326-blue?style=for-the-badge&logo=git"> <img alt="Followers" src="https://img.shields.io/badge/Followers-85-green?style=for-the-badge&logo=github"> <img alt="Repositories" src="https://img.shields.io/badge/Repositories-30-purple?style=for-the-badge&logo=github"> <img alt="Stars" src="https://img.shields.io/badge/Stars-36-yellow?style=for-the-badge&logo=github"> </p> <p align="center"> <img alt="Experience" src="https://img.shields.io/badge/Experience-Junior%20Dev-orange?style=for-the-badge&logo=visual-studio-code"> <img alt="Issues" src="https://img.shields.io/badge/Issues-1-lightgrey?style=for-the-badge&logo=github"> <img alt="Pull Requests" src="https://img.shields.io/badge/Pull%20Requests-1-lightblue?style=for-the-badge&logo=github"> <img alt="Reviews" src="https://img.shields.io/badge/Reviews-1-darkgrey?style=for-the-badge&logo=github"> </p> <p align="center"> <img alt="Languages" src="https://img.shields.io/badge/MultiLanguage-12-purple?style=for-the-badge&logo=programming"> </p> <h2 align="center">👋 Hi there, I am Bouazizi Baha</h2> <p align="center">Software Engineering Student | Full-stack .NET | ML & DL Enthusiast</p>
 ---
 
 ### About Me
