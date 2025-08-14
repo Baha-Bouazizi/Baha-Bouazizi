@@ -63,6 +63,16 @@
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
+     <a href="https://www.kaggle.com/bahabouazizi" target="_blank" title="Mon profil Kaggle">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" 
+       alt="Baha Bouazizi Kaggle" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #20BEFF40); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
+</a>
 </p>
 <div align="center">
   <!-- Ligne des badges de contact -->
