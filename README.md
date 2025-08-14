@@ -31,6 +31,7 @@
   </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Baha-Bouazizi&label=Profile%20views&color=0e75b6&style=flat" alt="baha-bouazizi" /> </p>
 
 #  A Passionate Software Engineering Student from Tunisia
 
