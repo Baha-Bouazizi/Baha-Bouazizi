@@ -1,19 +1,15 @@
 
 <div align="center" style="margin: 40px 0;">
 
-# Hey ! I'm Bouazizi Baha 
+# 🌍 Hey, I'm Baha Bouazizi
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 25px;">
-
-  <!-- GIF à gauche -->
-  <img height="180" src="https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" 
-       style="border-radius: 12px; border: 3px solid #2e86de; box-shadow: 0 4px 8px rgba(46,134,222,0.2);">
-
-  <!-- GIF à droite -->
-  <img height="180" src="https://media0.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" 
-       style="border-radius: 12px; border: 3px solid #8e44ad; box-shadow: 0 4px 8px rgba(142,68,173,0.2);">
-
-</div>
+<img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc9MGI3NjExZWFxbDd6YXVkb2lieWNnMmJubGk3OGZvajkxaXl0ejhuZ2lvZTB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
+     alt="Tech Globe Animation"
+     style="border-radius: 15px; border: 3px solid #2e86de; 
+            box-shadow: 0 8px 16px rgba(46,134,222,0.3);
+            transition: transform 0.5s ease;"
+     onmouseover="this.style.transform='rotateY(20deg) scale(1.05)'"
+     onmouseout="this.style.transform='rotateY(0deg) scale(1)'">
 
 </div>
 
