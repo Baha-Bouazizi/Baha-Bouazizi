@@ -34,28 +34,26 @@ A programmer specializing in **web development** with experience in multiple **t
 ---
 
 ### 💻 Languages & Tools
-🛠️  
+🛠️
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)  
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)  
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)  
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)  
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)  
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)  
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B&labelColor=ffffff)  
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=flat&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff)  
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">  
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">  
-<img src="https://img.shields.io/badge/Angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white">  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">  
-
----
 
 ### 🧐 Knowledge
 Responsive web design | Object-Oriented Programming | Problem Solving | Data Structures & Algorithms  
