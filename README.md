@@ -19,7 +19,15 @@
     <img src="https://img.shields.io/badge/Twitter-@BouaziziBaha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 
+##  Keep Me Caffeinated!
+
 <div align="center">
+  
+  Help me stay awake coding so why not! :
+  
+  [![Coffee Time](https://img.shields.io/badge/%F0%9F%8D%B5_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=caffeine&logoColor=black)](https://buymeacoffee.com/bouazizibaha)
+  
+</div><div align="center">
   <a href="https://buymeacoffee.com/bouazizibaha" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
