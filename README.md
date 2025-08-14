@@ -43,10 +43,10 @@
 
 ## 👋 About Me
 
-Software Engineering Student | Full-stack .NET | ML & DL Enthusiast  
+Software Engineering Student | .NET Developper |  ML & DL Enthusiast  
 
 📫 Passionate about technology and lifelong learning, I specialize in developing **web applications**.  
-I have experience in **Full Stack .NET development**, **FastAPI**, and I love **Machine Learning & Deep Learning**.  
+I have experience in **.NET development**, **FastAPI**, and I love **Machine Learning & Deep Learning**.  
 I focus on building **scalable, robust, and innovative solutions**.
 
 ---
