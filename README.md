@@ -25,6 +25,15 @@
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
+     <a href="mailto:Baha.Bouazizi@isimg.tn" target="_blank" title="Envoyer un email">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+       alt="Email" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #D1483640); margin-right: 10px;">
+  Baha.Bouazizi@isimg.tn
+</a>
   <a href="https://leetcode.com/bahabouazizi/" target="_blank" title="Mon profil LeetCode">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
