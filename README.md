@@ -19,15 +19,16 @@
     <img src="https://img.shields.io/badge/Twitter-@BouaziziBaha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 
-  <!-- Bouton "Buy Me a Coffee" centré sous les badges -->
-  <div style="margin-top: 20px;">
-   <h3 align="center">If you like what I do, why not</h3>
-<p align="center">
-  <a href="https://buymeacoffee.com/bouazizibaha">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
-  </a>
-</p>
-  </div>
+## ✨ Support & Appreciation
+
+<div align="center">
+  
+  <h3>Fuel my coding sessions 🚀</h3>
+  
+  [![Support](https://img.shields.io/badge/Support%20My%20Work-%F0%9F%8D%B8-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://buymeacoffee.com/bouazizibaha)
+  
+  <p><small>Your support means the world to me! 💛</small></p>
+  
 </div>
 
 
