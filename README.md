@@ -39,10 +39,8 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baha-Bouazizi&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%">
-</div>
-
-
+  <img src="https://github-profile-trophy.vercel.app?username=Baha-Bouaziz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div
 
 ## 👋 About Me
 
