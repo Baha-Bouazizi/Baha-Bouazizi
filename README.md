@@ -39,8 +39,10 @@ I have experience in **.NET development**, **FastAPI**, and I love **Machine Lea
 I focus on building **scalable, robust, and innovative solutions**.
 
 ---
-<h3 align="left">Support:</h3>
+<h3 align="left">If you like what i do why not to</h3>
 <p><a href="https://www.buymeacoffee.com/capuccino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="capuccino" /></a></p><br><br>
+--- 
+
 ## 🏆 Competitive Programming
 
 <p align="center">
