@@ -23,10 +23,15 @@
          width="40"
          style="margin-right: 8px;">
   </a>
-<a href="https://www.hackerrank.com/profile/CPCISIMG_II" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-BouaziziBaha-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" 
-       alt="HackerRank Profile"
-       style="margin: 5px;">
+<a href="https://www.hackerrank.com/profile/CPCISIMG_II" target="_blank" title="Mon profil HackerRank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+       alt="Baha Bouazizi HackerRank" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #00EA6440); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
 </a>
 </p>
 <div align="center">
