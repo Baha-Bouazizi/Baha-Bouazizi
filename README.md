@@ -83,6 +83,16 @@
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
 </a>
+     <a href="https://codepen.io/Baha-Bouazizi-the-lessful" target="_blank" title="Mes créations CodePen">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
+       alt="Baha Bouazizi CodePen" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #00000040); transition: all 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
+</a>
 </p>
 <div align="center">
   <!-- Ligne des badges de contact -->
