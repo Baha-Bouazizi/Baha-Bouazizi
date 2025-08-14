@@ -15,6 +15,16 @@
 
 ***Feel free to contact me. I'm always here...***
 <p align="left">
+     <a href="https://www.linkedin.com/in/baha-bouazizi" target="_blank" title="My LinkedIn Profile">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="Baha Bouazizi LinkedIn" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #0077B540); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
+</a>
   <a href="https://leetcode.com/bahabouazizi/" target="_blank" title="Mon profil LeetCode">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
@@ -32,6 +42,16 @@
        style="filter: drop-shadow(0 0 4px #00EA6440); transition: transform 0.3s ease;"
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'">
+</a>
+     <a href="https://codeforces.com/profile/bzzbaha" target="_blank" title="My Codeforces Profile">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
+       alt="bzzbaha on Codeforces" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #1F8ACB40); transition: all 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1) rotate(5deg)'"
+       onmouseout="this.style.transform='scale(1) rotate(0deg)'">
 </a>
 </p>
 <div align="center">
