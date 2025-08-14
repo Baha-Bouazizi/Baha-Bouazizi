@@ -3,7 +3,7 @@
 
 # ✨ Hey, I'm Baha Bouazizi ✨
 
-<img height="150" src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="Data">
+<img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding">
 
 </div>
 
