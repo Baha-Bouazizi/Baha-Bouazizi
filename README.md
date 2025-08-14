@@ -3,13 +3,19 @@
 
 # ✨ Hey, I'm Baha Bouazizi ✨
 
-<img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc9MGI3NjExZWFxbDd6YXVkb2lieWNnMmJubGk3OGZvajkxaXl0ejhuZ2lvZTB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
-     alt="Tech Globe Animation"
-     style="border-radius: 15px; border: 3px solid #2e86de; 
-            box-shadow: 0 8px 16px rgba(46,134,222,0.3);
-            transition: transform 0.5s ease;"
-     onmouseover="this.style.transform='rotateY(20deg) scale(1.05)'"
-     onmouseout="this.style.transform='rotateY(0deg) scale(1)'">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+  
+  <!-- GIF Globe Technologique -->
+  <img height="180" src="https://media3.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" 
+       alt="Tech Globe"
+       style="border-radius: 12px; border: 3px solid #2e86de; box-shadow: 0 4px 12px rgba(46,134,222,0.3);">
+  
+  <!-- GIF Code Animé -->
+  <img height="180" src="https://media0.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" 
+       alt="Coding Animation"
+       style="border-radius: 12px; border: 3px solid #8e44ad; box-shadow: 0 4px 12px rgba(142,68,173,0.3);">
+
+</div>
 </div>
 
 ***Feel free to contact me. I'm always here...***
