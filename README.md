@@ -22,7 +22,6 @@
          height="30" 
          width="40"
          style="margin-right: 8px;">
-    <span style="font-size: 14px; color: #ffa116;">LeetCode: bahabouazizi</span>
   </a>
 </p>
 <div align="center">
