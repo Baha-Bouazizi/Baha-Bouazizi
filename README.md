@@ -3,8 +3,8 @@
 
 # ✨ Hey, I'm Baha Bouazizi ✨
 
-<img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding">
-
+[<img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding">
+](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFxbDd6YXVkb2lieWNnMmJubGk3OGZvajkxaXl0ejhuZ2lvZTB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
 </div>
 
 ***Feel free to contact me. I'm always here...***
