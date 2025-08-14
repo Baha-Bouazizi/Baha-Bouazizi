@@ -106,6 +106,16 @@
        onmouseover="this.style.transform='scale(1.1) rotate(5deg)'"
        onmouseout="this.style.transform='scale(1) rotate(0deg)'">
 </a>
+<a href="https://www.facebook.com/bzz.bzz.3990" target="_blank" title="Mon Facebook">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+       alt="Baha Bouazizi Facebook" 
+       height="30" 
+       width="40"
+       style="filter: drop-shadow(0 0 4px #1877F240); transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
+</a>
 </p>
 
 
