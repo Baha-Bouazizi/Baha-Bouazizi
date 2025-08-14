@@ -1,19 +1,17 @@
 # 👋 Hi, I'm Bouazizi Baha 📝
 
-> Software Engineering Student | Full-stack .NET Developer | ML & DL Enthusiast  
+***Feel free to contact me. I'm always here...***
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=white&labelColor=black)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)
+  [![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-red?logo=Gmail&logoColor=white&labelColor=black)](mailto:Baha.Bouazizi@isimg.tn)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=white&labelColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
+  [![Twitter](https://img.shields.io/twitter/follow/BouaziziBaha?label=Follow&style=social)](https://twitter.com/BouaziziBaha)
+</p>
 
 ---
 
-## 📬 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bouazizi%20Baha-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/baha-bouazizi-95b39524b)  
-[![Gmail](https://img.shields.io/badge/Gmail-Baha.Bouazizi@isimg.tn-red?logo=Gmail&logoColor=white)](mailto:Baha.Bouazizi@isimg.tn)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-BouaziziBaha-brightgreen?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/CPCISIMG_II)  
-[![Twitter](https://img.shields.io/twitter/follow/BouaziziBaha?label=Follow&style=social)](https://twitter.com/BouaziziBaha)
-
----
-
-## 🚀 GitHub Stats & Achievements
+## 🚀 GitHub Achievements & Stats
 
 <p align="center">
   <img alt="Commits" src="https://img.shields.io/badge/Commits-326-blue?style=for-the-badge&logo=git">
@@ -35,26 +33,40 @@
 
 ---
 
+## 👋 About Me
+
+Software Engineering Student | Full-stack .NET | ML & DL Enthusiast  
+
+📫 Passionate about technology and lifelong learning, I specialize in developing **web applications**.  
+I have experience in **Full Stack .NET development**, **FastAPI**, and I love **Machine Learning & Deep Learning**.  
+I focus on building **scalable, robust, and innovative solutions**.
+
+---
+
 ## 🧑‍💻 Skills & Expertise
 
 **Frontend:** HTML5, CSS3, JavaScript, Angular, TypeScript  
 **Backend:** C#, .NET, FastAPI, Java  
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, GitHub, VSCode, Linux, Windows, Streamlit  
-**AI/ML:** Python, TensorFlow, Machine Learning, Deep Learning  
+**AI/ML:** TensorFlow, Python, Machine Learning, Deep Learning  
 
 ---
 
 ## 🏆 Competitive Programming
 
-- **LeetCode:** Solved **300+ problems**  
-- **Codeforces:** Solved **200+ problems**  
+- ✅ **LeetCode:** Solved **300+ problems**  
+- ✅ **Codeforces:** Solved **200+ problems**  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=white)](https://leetcode.com/BouaziziBaha/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/BouaziziBaha)
+<p align="center">
+  [![LeetCode](https://img.shields.io/badge/LeetCode-BouaziziBaha-orange?logo=leetcode&logoColor=white&labelColor=black)](https://leetcode.com/BouaziziBaha/)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-BouaziziBaha-blue?logo=codeforces&logoColor=white&labelColor=black)](https://codeforces.com/profile/BouaziziBaha)
+</p>
 
 ---
-### 💻 Languages & Tools
+
+## 💻 Languages & Tools
+
 <p align="center">
   ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
@@ -66,7 +78,7 @@
   <br>
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+  ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
   <br>
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
   ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
@@ -77,10 +89,9 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 </p>
 
-
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Stats
 
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&count_private=true&theme=radical" width="48%">
@@ -101,7 +112,3 @@
   [![Stars](https://img.shields.io/github/stars/Baha-Bouazizi?style=flat&color=yellow)](https://github.com/Baha-Bouazizi/stargazers)
   [![Profile Views](https://komarev.com/ghpvc/?username=Baha-Bouazizi&color=blue)](https://github.com/Baha-Bouazizi)
 </p>
-
----
-
-✨ **Fun Fact:** I love building projects that combine **web development** and **AI/ML**, and I always strive to make them **scalable, robust, and visually appealing**.
