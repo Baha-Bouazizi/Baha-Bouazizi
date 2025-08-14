@@ -23,6 +23,11 @@
          width="40"
          style="margin-right: 8px;">
   </a>
+<a href="https://www.hackerrank.com/profile/CPCISIMG_II" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-BouaziziBaha-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" 
+       alt="HackerRank Profile"
+       style="margin: 5px;">
+</a>
 </p>
 <div align="center">
   <!-- Ligne des badges de contact -->
