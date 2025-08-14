@@ -19,41 +19,34 @@
 
 ---
 
-# 🌟 GitHub Achievements Dashboard
+# 🚀 A Passionate Software Engineering Student from Tunisia
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-326-blue?style=flat-square&logo=git" alt="Commits">
-  <img src="https://img.shields.io/badge/Followers-85-success?style=flat-square&logo=github" alt="Followers">
-  <img src="https://img.shields.io/badge/Repositories-30-purple?style=flat-square&logo=github" alt="Repositories">
-  <img src="https://img.shields.io/badge/Stars-36-yellow?style=flat-square&logo=github" alt="Stars">
-  <img src="https://img.shields.io/badge/Languages-12-blueviolet?style=flat-square&logo=codeforces" alt="Languages">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Junior_Dev-important?style=flat-square&logo=visual-studio-code" alt="Level">
-  <img src="https://img.shields.io/badge/Hyper_Commiter-32Gpt-informational?style=flat-square&logo=github-actions" alt="Hyper Committer">
-  <img src="https://img.shields.io/badge/Active_User-8Gpt-success?style=flat-square&logo=user" alt="Active User">
-  <img src="https://img.shields.io/badge/Repo_Creator-3Gpt-blue?style=flat-square&logo=github" alt="Repo Creator">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/First_Issue-1pt-lightgrey?style=flat-square&logo=git" alt="First Issue">
-  <img src="https://img.shields.io/badge/First_PR-1pt-blue?style=flat-square&logo=git-pull-request" alt="First PR">
-  <img src="https://img.shields.io/badge/First_Review-1pt-green?style=flat-square&logo=code-review" alt="First Review">
-  <img src="https://img.shields.io/badge/Star_User-3Gpt-yellow?style=flat-square&logo=star" alt="Star User">
-</p>
-
-<div align="center">
+  <!-- First Row -->
+  <img src="https://img.shields.io/badge/Commits-Hyper_Committer_32ppt-blue?style=for-the-badge&logo=git" alt="Commits">
+  <img src="https://img.shields.io/badge/Followers-Active_User_85pt-green?style=for-the-badge&logo=github" alt="Followers">
+  <img src="https://img.shields.io/badge/Repositories-Hyper_Repo_Creator_30pt-purple?style=for-the-badge&logo=github" alt="Repositories">
   
-| **Category**       | **Badge**                                                                 | **Progress** |
-|--------------------|---------------------------------------------------------------------------|--------------|
-| **Commits**        | ![Commits](https://img.shields.io/badge/Hyper_Commiter-32Gpt-blue)        | ██████████   |
-| **Community**      | ![Followers](https://img.shields.io/badge/Active_User-8Gpt-green)         | ████▌        |
-| **Repositories**   | ![Repos](https://img.shields.io/badge/Repo_Creator-3Gpt-purple)           | █▌           |
-| **Stars**          | ![Stars](https://img.shields.io/badge/Star_User-3Gpt-yellow)              | █▌           |
-| **Experience**     | ![Level](https://img.shields.io/badge/Junior_Dev-7pt-orange)              | █████▌       |
+  <!-- Second Row -->
+  <img src="https://img.shields.io/badge/Stars-You_are_a_Star_36pt-yellow?style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://img.shields.io/badge/Experience-Junior_Dev_7pt-orange?style=for-the-badge&logo=visual-studio-code" alt="Experience">
+  <img src="https://img.shields.io/badge/Issues-First_Issue_1pt-lightgrey?style=for-the-badge&logo=github" alt="First Issue">
+  
+  <!-- Third Row -->
+  <img src="https://img.shields.io/badge/Pull_Requests-First_Pull_1pt-lightblue?style=for-the-badge&logo=git-pull-request" alt="Pull Requests">
+  <img src="https://img.shields.io/badge/Reviews-New_Reviewer_1pt-darkgrey?style=for-the-badge&logo=code-review" alt="Reviews">
+</p>
 
-</div>
+## 🌐 MultiLanguage Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
 
 ## 👋 About Me
 
