@@ -89,12 +89,12 @@ I focus on building **scalable, robust, and innovative solutions**.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&count_private=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=radical" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baha-Bouazizi&show_icons=true&count_private=true&theme=light" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=light" width="48%" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baha-Bouazizi&theme=light&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
