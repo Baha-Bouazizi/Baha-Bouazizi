@@ -186,7 +186,7 @@ I focus on building **scalable, robust, and innovative solutions**.
     color:white;
     transition:transform 0.3s ease;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" style="margin-bottom:8px;">
-      <span style="font-size:1.2rem;font-weight:bold;">300+ Problems</span>
+      <span style="font-size:1.2rem;font-weight:bold;">350+ Problems</span>
   </a>
 
   <!-- Codeforces -->
