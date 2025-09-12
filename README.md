@@ -174,7 +174,7 @@ I focus on building **scalable, robust, and innovative solutions**.
 ">
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/BouaziziBaha/" style="
+  <a href="https://leetcode.com/u/bahabouazizi/" target="_blank" style="
     text-decoration:none;
     display:flex;
     flex-direction:column;
@@ -190,7 +190,7 @@ I focus on building **scalable, robust, and innovative solutions**.
   </a>
 
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/BouaziziBaha" style="
+  <a href="https://codeforces.com/profile/bzzbaha" target="_blank" style="
     text-decoration:none;
     display:flex;
     flex-direction:column;
