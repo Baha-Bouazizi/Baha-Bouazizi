@@ -164,16 +164,44 @@ I focus on building **scalable, robust, and innovative solutions**.
 
 ---
 
-## 🏆 Competitive Programming
+<h2 align="center">🏆 Competitive Programming</h2>
 
-<p align="center">
-  <a href="https://leetcode.com/BouaziziBaha/">
-    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- LeetCode Card -->
+  <a href="https://leetcode.com/BouaziziBaha/" style="
+      text-decoration:none;
+      background:linear-gradient(135deg,#ffa116,#ffb84d);
+      color:white;
+      padding:15px 25px;
+      border-radius:15px;
+      box-shadow:0 4px 12px rgba(255,161,22,0.4);
+      display:flex;
+      align-items:center;
+      gap:10px;
+      transition:transform 0.3s ease;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30">
+    <span style="font-size:1.1rem;font-weight:bold;">300+ Problems</span>
   </a>
-  <a href="https://codeforces.com/profile/BouaziziBaha">
-    <img src="https://img.shields.io/badge/Codeforces-200%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+
+  <!-- Codeforces Card -->
+  <a href="https://codeforces.com/profile/BouaziziBaha" style="
+      text-decoration:none;
+      background:linear-gradient(135deg,#1F8ACB,#3AB0E4);
+      color:white;
+      padding:15px 25px;
+      border-radius:15px;
+      box-shadow:0 4px 12px rgba(31,138,203,0.4);
+      display:flex;
+      align-items:center;
+      gap:10px;
+      transition:transform 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30">
+    <span style="font-size:1.1rem;font-weight:bold;">200+ Problems</span>
   </a>
-</p>
+
+</div>
+
 
 ---
 
