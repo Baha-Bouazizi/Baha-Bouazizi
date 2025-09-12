@@ -163,44 +163,50 @@ I have experience in **.NET development**, **FastAPI**, and I love **Machine Lea
 I focus on building **scalable, robust, and innovative solutions**.
 
 ---
-
 <h2 align="center">🏆 Competitive Programming</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center" style="
+  display:flex;
+  justify-content:center;
+  gap:40px;
+  flex-wrap:wrap;
+  font-family:sans-serif;
+">
 
-  <!-- LeetCode Card -->
+  <!-- LeetCode -->
   <a href="https://leetcode.com/BouaziziBaha/" style="
-      text-decoration:none;
-      background:linear-gradient(135deg,#ffa116,#ffb84d);
-      color:white;
-      padding:15px 25px;
-      border-radius:15px;
-      box-shadow:0 4px 12px rgba(255,161,22,0.4);
-      display:flex;
-      align-items:center;
-      gap:10px;
-      transition:transform 0.3s ease;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30">
-    <span style="font-size:1.1rem;font-weight:bold;">300+ Problems</span>
+    text-decoration:none;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background:linear-gradient(135deg,#ffa116,#ffb84d);
+    padding:15px 25px;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(255,161,22,0.3);
+    color:white;
+    transition:transform 0.3s ease;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" style="margin-bottom:8px;">
+      <span style="font-size:1.2rem;font-weight:bold;">300+ Problems</span>
   </a>
 
-  <!-- Codeforces Card -->
+  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/BouaziziBaha" style="
-      text-decoration:none;
-      background:linear-gradient(135deg,#1F8ACB,#3AB0E4);
-      color:white;
-      padding:15px 25px;
-      border-radius:15px;
-      box-shadow:0 4px 12px rgba(31,138,203,0.4);
-      display:flex;
-      align-items:center;
-      gap:10px;
-      transition:transform 0.3s ease;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30">
-    <span style="font-size:1.1rem;font-weight:bold;">200+ Problems</span>
+    text-decoration:none;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background:linear-gradient(135deg,#1F8ACB,#3AB0E4);
+    padding:15px 25px;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(31,138,203,0.3);
+    color:white;
+    transition:transform 0.3s ease;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" style="margin-bottom:8px;">
+      <span style="font-size:1.2rem;font-weight:bold;">200+ Problems</span>
   </a>
 
 </div>
+
 
 
 ---
