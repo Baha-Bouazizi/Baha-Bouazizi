@@ -24,11 +24,6 @@ jobs:
           github_user_name: "Baha-Bouazizi"
           output_name: "pacman-contribution-graph"
 
-      - name: Move SVG files to root
-        run: |
-          mv pacman-contribution-graph.svg ./
-          mv pacman-contribution-graph-dark.svg ./
-
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
