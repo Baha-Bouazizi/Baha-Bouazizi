@@ -18,16 +18,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Créer dossier output
+        run: mkdir -p output
+
       - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: "Baha-Bouazizi"  # Vérifie bien ton pseudo exact (sensible à la casse)
+          github_user_name: "Baha-Bouazizi"
           output_name: "pacman-contribution-graph"
 
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add -A
-          git commit -m "Update Pacman contribution graph" || true
+          git add output/pacman-contribution-graph.svg
+          git diff --cached --quiet || git commit -m "Update Pacman contribution graph"
           git push origin main
