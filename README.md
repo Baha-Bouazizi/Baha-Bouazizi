@@ -141,7 +141,7 @@
 
 ## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Baha-Bouazizi&theme=dracula" height="150" alt="trophy graph" />
+  <img src="https://github-trophies.vercel.app/?username=Baha-Bouazizi&theme=dark" height="150" alt="trophy graph" />
 </div>
 
 ## 👋 About Me
