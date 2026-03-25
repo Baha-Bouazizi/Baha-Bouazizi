@@ -241,7 +241,7 @@ I focus on building **scalable, robust, and innovative solutions**.
 
 ---
 <picture> 
-<source srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/dist/pacman-contribution-graph-dark.svg">
-<source srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/dist/pacman-contribution-graph.svg">
-<img src="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/dist/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/pacman-contribution-graph-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/pacman-contribution-graph.svg"> 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/pacman-contribution-graph.svg"> 
 </picture>
