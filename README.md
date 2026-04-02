@@ -50,17 +50,25 @@
 
 ---
 
-## ✨ Talk to My AI Twin — Live in Your Browser!
-
-> **The magic moment** 🪄 — Chat with an AI version of me that knows my skills, projects, and story. Just click below!
+---
 
 <div align="center">
 
-[![Launch AI Terminal](https://img.shields.io/badge/Chat_with_Baha's_AI_Twin-Launch_Terminal_%E2%96%B6-blueviolet?style=for-the-badge)](https://baha-bouazizi.github.io/ai-terminal/index.html)
+## 🤖 Meet My AI Twin
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A960FF&center=true&vCenter=true&width=500&lines=Ask+me+about+Baha's+tech+stack...;Ask+me+if+Baha+is+available+to+hire...;Ask+me+about+his+projects...;I+know+everything+about+him!" alt="Typing SVG" />
+
+<br>
+
+[![AI Terminal](https://img.shields.io/badge/-%E2%96%B6%20LAUNCH%20INTERACTIVE%20TERMINAL-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41)](https://baha-bouazizi.github.io/ai-terminal/)
+&nbsp;
+[![Powered by AI](https://img.shields.io/badge/Powered%20by-Groq%20AI-F55036?style=for-the-badge&logo=lightning&logoColor=white)](https://baha-bouazizi.github.io/ai-terminal/)
+
+<sub>💬 Type <code>whoami</code> · <code>cat tech_stack.txt</code> · <code>./hire_baha.sh</code> · or anything you want!</sub>
 
 </div>
 
-> 💡 *Ask it: "What's your tech stack?", "Can I hire Baha?", "Best project?" — or anything you want!*
+---
 
 ## Keep Me Caffeinated!
 
