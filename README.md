@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![Launch AI Terminal](https://img.shields.io/badge/Chat_with_Baha's_AI_Twin-Launch_Terminal_%E2%96%B6-blueviolet?style=for-the-badge)](https://baha-bouazizi.github.io/ai-terminal/)
+[![Launch AI Terminal](https://img.shields.io/badge/Chat_with_Baha's_AI_Twin-Launch_Terminal_%E2%96%B6-blueviolet?style=for-the-badge)](https://baha-bouazizi.github.io/ai-terminal/index.html)
 
 </div>
 
