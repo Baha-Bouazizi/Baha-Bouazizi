@@ -56,13 +56,11 @@
 
 <div align="center">
 
-[![🤖 Launch AI Terminal](https://img.shields.io/badge/🤖%20Chat%20with%20Baha's%20AI%20Twin-Launch%20Terminal%20▶-blueviolet?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://baha-bouazizi.github.io/Baha-Bouazizi/terminal.html)
+[![Launch AI Terminal](https://img.shields.io/badge/Chat_with_Baha's_AI_Twin-Launch_Terminal_%E2%96%B6-blueviolet?style=for-the-badge)](https://baha-bouazizi.github.io/Baha-Bouazizi/terminal.html)
 
 </div>
 
 > 💡 *Ask it: "What's your tech stack?", "Can I hire Baha?", "Best project?" — or anything you want!*
-
----
 
 ## Keep Me Caffeinated!
 
