@@ -62,7 +62,7 @@
 
 [![AI Terminal](https://img.shields.io/badge/-%E2%96%B6%20LAUNCH%20INTERACTIVE%20TERMINAL-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41)](https://baha-bouazizi.github.io/ai-terminal/)
 &nbsp;
-[![Powered by AI](https://img.shields.io/badge/Powered%20by-Groq%20AI-F55036?style=for-the-badge&logo=lightning&logoColor=white)](https://baha-bouazizi.github.io/ai-terminal/)
+
 
 <sub>💬 Type <code>whoami</code> · <code>cat tech_stack.txt</code> · <code>./hire_baha.sh</code> · or anything you want!</sub>
 
