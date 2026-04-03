@@ -10,6 +10,79 @@
   ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 213.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 124 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌆 Daytime                697 commits         ██████████████░░░░░░░░░░░   57.04 % 
+🌃 Evening                382 commits         ████████░░░░░░░░░░░░░░░░░   31.26 % 
+🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Tuesday                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Wednesday                243 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Friday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Saturday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Sunday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/04/2026 15:46:44 UTC
 <!--END_SECTION:waka-->
 </div>
 
