@@ -7,7 +7,7 @@
     loading="lazy"
     style="border-radius: 15px; border: 3px solid #2e86de; box-shadow: 0 8px 16px rgba(46,134,222,0.3);"
   >
-  ## ⏱️ Weekly Development Breakdown
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
