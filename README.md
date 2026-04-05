@@ -10,11 +10,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 213.4 kB Used in GitHub's Storage 
+> 📦 213.5 kB Used in GitHub's Storage 
  > 
 > 🏆 128 Contributions in the Year 2026
  > 
@@ -80,7 +82,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 02:48:43 UTC
+ Last Updated on 05/04/2026 03:25:25 UTC
 <!--END_SECTION:waka-->
 </div>
 
