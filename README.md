@@ -1,169 +1,18 @@
-<div align="center">
+<div align="center" style="margin: 40px 0;">
+  <h1>🌍 Hey, I'm Baha Bouazizi</h1>
+  <img 
+    height="200" 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc9MGI3NjExZWFxbDd6YXVkb2lieWNnMmJubGk3OGZvajkxaXl0ejhuZ2lvZTB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
+    alt="Tech Globe Animation" 
+    loading="lazy"
+    style="border-radius: 15px; border: 3px solid #2e86de; box-shadow: 0 8px 16px rgba(46,134,222,0.3);"
+  >
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     HERO SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Baha%20Bouazizi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Student%20%7C%20Tunisia%20%F0%9F%87%B9%F0%9F%87%B3&descAlignY=55&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=.NET+Developer+%26+Fullstack+Engineer;ML+%2F+Deep+Learning+Enthusiast;350%2B+LeetCode+%7C+200%2B+Codeforces;Building+scalable+%26+robust+solutions;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baha-bouazizi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bahabouazizi/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bzzbaha)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bahabouazizi)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/CPCISIMG_II)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30167872/baha-bouazizi)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Baha-Bouazizi&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bouazizibaha)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img align="right" height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFxbDd6YXVkb2lieWNnMmJubGk3OGZvajkxaXl0ejhuZ2lvZTB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
-
-### `$ whoami`
-
-```json
-{
-  "name"        : "Baha Bouazizi",
-  "location"    : "Tunisia 🇹🇳",
-  "role"        : "Software Engineering Student",
-  "focus"       : ["ASP.NET Core", "FastAPI", "ML & Deep Learning"],
-  "interests"   : ["Competitive Programming", "Scalable Systems"],
-  "available"   : true,
-  "contact"     : "baha.bouazizi@isimg.tn"
-}
-```
-
-- 🔭 Building **scalable, robust, and innovative** web solutions
-- 🧠 Passionate about **Machine Learning & Deep Learning**
-- ⚔️ Active competitive programmer on **LeetCode & Codeforces**
-- 💡 Always learning — *"Code. Break. Fix. Repeat."*
-- 📬 Reach me at **baha.bouazizi@isimg.tn**
-
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               COMPETITIVE PROGRAMMING                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚔️ Competitive Programming Arena
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://leetcode.com/u/bahabouazizi/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        <br/><sub><b>Algorithms & Data Structures</b></sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://codeforces.com/profile/bzzbaha" target="_blank">
-        <img src="https://img.shields.io/badge/Codeforces-200%2B%20Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-        <br/><sub><b>Competitive Contests</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks & Libraries**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**AI / Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5C7EC7?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Baha-Bouazizi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=e6edf3&ring_color=8b5cf6" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=e6edf3" height="170" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Baha-Bouazizi&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=f59e0b&currStreakLabel=8b5cf6" alt="GitHub Streak" width="70%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  WAKATIME / ACTIVITY                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -171,10 +20,12 @@
  > 
 > 🏆 147 Contributions in the Year 2026
  > 
+> 🚫 Not Opted to Hire
+ > 
 > 📜 32 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
-
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -183,104 +34,216 @@
 🌃 Evening                382 commits         ████████░░░░░░░░░░░░░░░░░   30.71 % 
 🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
-
-📅 **Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday    141 commits  ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
-Tuesday   129 commits  ███░░░░░░░░░░░░░░░░░░░░░░  10.37%
-Wednesday 246 commits  █████░░░░░░░░░░░░░░░░░░░░  19.77%
-Thursday  266 commits  █████░░░░░░░░░░░░░░░░░░░░  21.38% ◀ peak
-Friday    184 commits  ████░░░░░░░░░░░░░░░░░░░░░  14.79%
-Saturday  154 commits  ███░░░░░░░░░░░░░░░░░░░░░░  12.38%
-Sunday    124 commits  ██░░░░░░░░░░░░░░░░░░░░░░░  09.97%
+Monday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Tuesday                  129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Wednesday                246 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Friday                   184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Sunday                   124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook  9 repos   █████░░░░░░░░░░░░░░░░░░░░  21.95%
-Python            7 repos   ████░░░░░░░░░░░░░░░░░░░░░  17.07%
-JavaScript        6 repos   ████░░░░░░░░░░░░░░░░░░░░░  14.63%
-CSS               5 repos   ███░░░░░░░░░░░░░░░░░░░░░░  12.20%
-HTML              3 repos   ██░░░░░░░░░░░░░░░░░░░░░░░  07.32%
+Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 ```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/assets/bar_graph.png)
+
 
  Last Updated on 09/04/2026 02:56:47 UTC
 <!--END_SECTION:waka-->
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     TROPHIES                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-trophies.vercel.app/?username=Baha-Bouazizi&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="trophies"/>
-
 </div>
 
+- 📫 How to reach me **baha.bouazizi@isimg.tn**
+***Feel free to contact me. I'm always here...***
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/baha-bouazizi" target="_blank" title="My LinkedIn Profile">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Baha Bouazizi LinkedIn" height="30" width="40">
+  </a>
+  <a href="https://leetcode.com/bahabouazizi/" target="_blank" title="Mon profil LeetCode">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" style="margin-right: 8px;">
+  </a>
+  <a href="https://www.hackerrank.com/profile/CPCISIMG_II" target="_blank" title="Mon profil HackerRank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Baha Bouazizi HackerRank" height="30" width="40">
+  </a>
+  <a href="https://codeforces.com/profile/bzzbaha" target="_blank" title="My Codeforces Profile">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bzzbaha on Codeforces" height="30" width="40">
+  </a>
+  <a href="https://stackoverflow.com/users/30167872/baha-bouazizi" target="_blank" title="Mon profil Stack Overflow">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Baha Bouazizi Stack Overflow" height="30" width="40">
+  </a>
+  <a href="https://www.kaggle.com/bahabouazizi" target="_blank" title="Mon profil Kaggle">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Baha Bouazizi Kaggle" height="30" width="40">
+  </a>
+  <a href="https://twitter.com/BouaziziBaha" target="_blank" title="Mon Twitter">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BouaziziBaha Twitter" height="30" width="40">
+  </a>
+  <a href="https://www.codechef.com/users/buazizibaha" target="_blank" title="Mon profil CodeChef">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="buazizibaha CodeChef" height="30" width="40">
+  </a>
+  <a href="https://codepen.io/Baha-Bouazizi-the-lessful" target="_blank" title="Mes créations CodePen">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Baha Bouazizi CodePen" height="30" width="40">
+  </a>
+  <a href="https://www.instagram.com/bzz_baha/" target="_blank" title="Mon Instagram">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bzz_baha Instagram" height="30" width="40">
+  </a>
+  <a href="https://www.facebook.com/bzz.bzz.3990" target="_blank" title="Mon Facebook">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Baha Bouazizi Facebook" height="30" width="40">
+  </a>
+</p>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  AI TWIN / TERMINAL                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
 ## 🤖 Meet My AI Twin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A960FF&center=true&vCenter=true&width=550&lines=Ask+me+about+Baha%27s+tech+stack...;Ask+me+if+Baha+is+available+to+hire...;Ask+me+about+his+projects...;I+know+everything+about+him!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A960FF&center=true&vCenter=true&width=500&lines=Ask+me+about+Baha's+tech+stack...;Ask+me+if+Baha+is+available+to+hire...;Ask+me+about+his+projects...;I+know+everything+about+him!" alt="Typing SVG" />
 
-<br/>
+<br>
 
-[![Launch Interactive Terminal](https://img.shields.io/badge/▶%20LAUNCH%20INTERACTIVE%20TERMINAL-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41)](https://baha-bouazizi.github.io/ai-terminal/)
+[![AI Terminal](https://img.shields.io/badge/-%E2%96%B6%20LAUNCH%20INTERACTIVE%20TERMINAL-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41)](https://baha-bouazizi.github.io/ai-terminal/)
+&nbsp;
 
-<sub>💬 Type <code>whoami</code> · <code>cat tech_stack.txt</code> · <code>./hire_baha.sh</code></sub>
+
+<sub>💬 Type <code>whoami</code> · <code>cat tech_stack.txt</code> · <code>./hire_baha.sh</code> · or anything you want!</sub>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION GRAPH                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  COFFEE / FOOTER                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## Keep Me Caffeinated!
 
 <div align="center">
-
-## ☕ Keep Me Caffeinated!
-
-*Help me stay awake coding — every coffee = 100 more commits ⚡*
-
-<a href="https://buymeacoffee.com/bouazizibaha" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"/>
-</a>
-
-<br/><br/>
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BouaziziBaha)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bzz_baha/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bzz.bzz.3990)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Baha-Bouazizi-the-lessful)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/buazizibaha)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+  Help me stay awake coding so why not! :
+  <br><br>
+  <a href="https://buymeacoffee.com/bouazizibaha" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
 </div>
+
+---
+
+# A Passionate Software Engineering Student from Tunisia
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Baha-Bouazizi&theme=dark" height="150" alt="trophy graph" />
+</div>
+
+## 👋 About Me
+
+Software Engineering Student | .NET Developer | ML & DL Enthusiast  
+Passionate about technology and lifelong learning, I specialize in developing **web applications**.  
+I have experience in **.NET development**, **FastAPI**, and I love **Machine Learning & Deep Learning**.  
+I focus on building **scalable, robust, and innovative solutions**.
+
+---
+
+<h2 align="center">🏆 Competitive Programming</h2>
+
+<div align="center" style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; font-family:sans-serif;">
+  <a href="https://leetcode.com/u/bahabouazizi/" target="_blank" style="text-decoration:none; display:flex; flex-direction:column; align-items:center; background:linear-gradient(135deg,#ffa116,#ffb84d); padding:15px 25px; border-radius:15px; box-shadow:0 4px 12px rgba(255,161,22,0.3); color:white;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" style="margin-bottom:8px;">
+    <span style="font-size:1.2rem;font-weight:bold;">350+ Problems</span>
+  </a>
+  <a href="https://codeforces.com/profile/bzzbaha" target="_blank" style="text-decoration:none; display:flex; flex-direction:column; align-items:center; background:linear-gradient(135deg,#1F8ACB,#3AB0E4); padding:15px 25px; border-radius:15px; box-shadow:0 4px 12px rgba(31,138,203,0.3); color:white;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" style="margin-bottom:8px;">
+    <span style="font-size:1.2rem;font-weight:bold;">200+ Problems</span>
+  </a>
+</div>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
+  <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=light&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=light&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Baha-Bouazizi&theme=light&hide_border=true" alt="GitHub Streak" width="80%">
+</p>
+
+---
+
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/output/pacman-contribution-graph-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/output/pacman-contribution-graph.svg"> 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/output/pacman-contribution-graph.svg"> 
+</picture>
