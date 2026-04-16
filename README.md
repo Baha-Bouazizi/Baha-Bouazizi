@@ -39,7 +39,7 @@ class BahaBouazizi:
         ]
 
     def say_hi(self):
-        return "Feel free to reach out — I'm always here! 🚀"
+        return "Feel free to reach out — I'm always here! "
 ```
 
 ---
