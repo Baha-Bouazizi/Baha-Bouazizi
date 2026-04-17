@@ -109,17 +109,79 @@ I'm a software engineering student from Tunisia, passionate about technology and
 ## 📊 GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-<div align="center">
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue?style=flat)
 
-![Baha's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Baha-Bouazizi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=1800)
+**🐱 My GitHub Data** 
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Baha-Bouazizi&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
+> 📦 217.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 178 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Baha-Bouazizi&theme=default&hide_border=true)
+```text
+🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+🌆 Daytime                722 commits         ██████████████░░░░░░░░░░░   56.63 % 
+🌃 Evening                390 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+```
+📅 **I'm Most Productive on Thursday** 
 
-</div>
+```text
+Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Tuesday                  132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Wednesday                248 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Thursday                 280 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Friday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Saturday                 156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Sunday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/04/2026 03:31:10 UTC
 <!--END_SECTION:waka-->
 
 ---
