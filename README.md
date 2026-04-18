@@ -111,7 +111,7 @@ I'm a software engineering student from Tunisia, passionate about technology and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -181,7 +181,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 03:31:10 UTC
+ Last Updated on 18/04/2026 03:19:03 UTC
 <!--END_SECTION:waka-->
 
 ---
