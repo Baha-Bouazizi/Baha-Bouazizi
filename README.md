@@ -64,8 +64,6 @@ class BahaBouazizi:
  > 
 > 🏆 199 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 32 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
