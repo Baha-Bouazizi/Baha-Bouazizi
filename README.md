@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Baha%20Bouazizi%20%F0%9F%8C%8D&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=14&descColor=a0f0d0" width="100%"/>
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=.NET+%7C+FastAPI+%7C+React+Developer+%F0%9F%9A%80;Machine+Learning+%26+Deep+Learning+%F0%9F%A4%96;350%2B+LeetCode+%7C+200%2B+Codeforces+%F0%9F%8F%86;Building+scalable+%26+innovative+solutions+%E2%9C%A8" alt="Typing SVG" />
