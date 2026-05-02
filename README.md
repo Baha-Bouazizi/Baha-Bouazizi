@@ -57,7 +57,7 @@ class BahaBouazizi:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -127,7 +127,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Baha-Bouazizi/Baha-Bouazizi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2026 04:03:13 UTC
+ Last Updated on 02/05/2026 03:35:50 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
